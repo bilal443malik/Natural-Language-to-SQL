@@ -57,7 +57,7 @@ Orchestrates the end-to-end processing of user queries:
 4. Run the app using `streamlit run app.py`.
 
 ### Streamlit UI
-![Example Image](https://github.com/RicardyC/Natural-Language-to-SQL-Bot/blob/main/Example.png)
+[Example Image](https://github.com/RicardyC/Natural-Language-to-SQL-Bot/blob/main/Example.png)
 
 ### Example 1
 Input: *"What are the details of the longest track in the database?"*
