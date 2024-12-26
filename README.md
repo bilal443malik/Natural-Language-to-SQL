@@ -68,7 +68,7 @@ Input: *"Show sales of 2010 only from the months of June, July and August"*
 Output: Total sales for June, July, and August of 2010 were $111.87. This represents the combined sales for those three months.
 
 ### Video Demo:
-Link [https://www.loom.com/share/f5aba3c508fa4d7cb8803f028d850d57?sid=c7012e91-840b-4ed5-bb15-f452b5a8a36b]
+![Click Here for Video Demo](https://www.loom.com/share/f5aba3c508fa4d7cb8803f028d850d57?sid=b3f4c0cf-65fc-47a3-9115-263ab5cee6a7)
 
 ---
 
