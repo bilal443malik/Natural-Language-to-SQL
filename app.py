@@ -10,13 +10,13 @@ st.sidebar.title("How to Use the App")
 st.sidebar.write("""
 ## Instructions:
 1. **Enter your query**: Type your question in natural language (e.g., "What are the details of the longest track?").
-    
+     
 2. **Process the query**: Click "Process Query" to get the result.
-
+ 
 3. **View the answer**: The app will show the answer or an error message.
-
+ 
 4. **Test queries**: Try predefined queries to see how it works.
-
+ 
 5. **Explore schema**: Expand the schema section for database structure details.
 """)
 
@@ -80,7 +80,7 @@ def main():
 
     # Additional Information
     with st.expander("Database Schema Information"):
-        st.write("""
+        st.write(""" 
         ### Available Tables:
         - **Invoices**: Sales invoice data including billing information and totals
         - **Invoice_items**: Individual line items for each invoice
@@ -107,6 +107,6 @@ def main():
         - Dates are stored in standard SQL format
         - Names and titles preserve original spelling/characters
         """)
-
+ 
 if __name__ == "__main__":
     main()
