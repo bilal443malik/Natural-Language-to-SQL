@@ -42,7 +42,7 @@ Orchestrates the end-to-end processing of user queries:
 - Translates ambiguous natural language questions into precise SQL queries.
 - Validates database schema alignment for robust query execution.
 - Generates human-readable explanations of database query results.
-- Streamlined, workflow-driven query processing.
+- Streamlined, workflow-driven query processing.  
 
 ## Getting Started
 ### Prerequisites
