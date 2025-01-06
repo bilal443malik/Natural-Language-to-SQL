@@ -28,7 +28,7 @@ Defines a graph-based workflow to process user queries with clear states and tra
   1. Refine Query
   2. Validate Schema
   3. Generate SQL
-  4. Execute Query
+  4. Execute Query 
   5. Generate Explanation
 - **`create_workflow`**: Compiles the steps into a sequential graph using LangGraph for streamlined query handling.
 
