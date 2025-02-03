@@ -7,7 +7,7 @@ def clean_input_string(input_string):
     return " ".join(input_string.split())
 
 def execute_sql_query(sql_query):
-    try:
+    try: 
         conn = sqlite3.connect('chinook.db')
         cursor = conn.cursor()
         cursor.execute(sql_query)
