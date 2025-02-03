@@ -76,7 +76,7 @@ def create_workflow():
     workflow.add_node("explain", generate_explanation)
 
     # Define edges with START node
-    workflow.add_edge(START, "refine")  # Add this line
+    workflow.add_edge(START, "refine")
     workflow.add_edge("refine", "validate")
     workflow.add_edge("validate", "generate_sql")
     workflow.add_edge("generate_sql", "execute")
